@@ -1,0 +1,15 @@
+{
+  "build": {
+    "env": {
+      "VITE_BUILD_TARGET": "web"
+    }
+  },
+  "public": true,
+  "routes": [
+    {
+      "src": "/[^.]+",
+      "dest": "/",
+      "status": 200
+    }
+  ]
+}
