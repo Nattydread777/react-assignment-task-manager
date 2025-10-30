@@ -12,7 +12,7 @@ _A screenshot of the Task Manager page, showing the ability to add, delete, and 
 ![Task Manager Screenshot](./screenshots/task-manager-page.png)
 
 _A screenshot of the API Data page, showing fetched posts, search, and pagination._
-![API Data Screenshot](./screenshots/api-data-page.png)
+![API Data Screenshot](./screenshots/API-Pagnation-Page.png)
 
 ## ✍️ Author
 
