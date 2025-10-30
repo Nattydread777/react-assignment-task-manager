@@ -4,7 +4,7 @@ This assignment focuses on building a responsive React application using JSX and
 
 ## ✨ Live Demo
 
-[Your Deployed URL will be added here]
+https://react-assignment-task-manager-qioru62hy-nattydread777s-projects.vercel.app/
 
 ## 📸 Screenshots
 
